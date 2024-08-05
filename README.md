@@ -1,4 +1,4 @@
-# subdof
+# Subdof
 
 `subdof` is a Python-based tool designed to enumerate subdomains for a given domain. It utilizes multiple sources including VirusTotal, crt.sh, and HackerTarget to find and list subdomains. The results can be saved to a user-specified file.
 
@@ -25,6 +25,23 @@ pip install requests
 ```
 
 ## Usage
-```sh 
-python subdof.py 
+### 1. Clone the Repository
+If you want to clone the repository, use the following command:
+```sh
+git clone https://github.com/CyberPirates24/Subdof.git
+
 ```
+
+### 2. Navigate to the Directory
+Change to the directory where subdof.py is located:
+```sh
+cd Subdof
+```
+
+### 3. Run the Tool
+Execute the tool with Python:
+```sh
+python subdof.py
+```
+
+Then Enjoy the Tool!
