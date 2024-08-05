@@ -26,5 +26,5 @@ pip install requests
 
 ## Usage
 ```sh 
-python subdof..py 
+python subdof.py 
 ```
